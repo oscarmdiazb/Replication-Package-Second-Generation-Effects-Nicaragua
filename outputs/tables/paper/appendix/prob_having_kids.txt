@@ -1,0 +1,10 @@
+		(1)	(2)	(3)	(4)	(5)
+		Ever had a	Has	Has a child	Mother's Age	Child is
+		live birth	a child	born after Sept. 1 2006	at first birth	first born
+VARIABLES	LABELS	(=1)	(=1)	(=1)	(years)	(=1)
+						
+early_treated	ITT	-0.000	-0.003	-0.023	0.091	0.009
+		(0.038)	(0.037)	(0.032)	(0.322)	(0.032)
+						
+N		888	888	888	342	366
+Mean Late Treatment		0.466	0.455	0.386	17.60	0.791

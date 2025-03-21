@@ -1,0 +1,9 @@
+		(1)	(2)	(3)	(4)	(5)
+		Main Caregiver:	Main Caregiver:	Main Caregiver:	Father not Resident	Father Time
+VARIABLES	LABELS	Mother (=1)	Father (=1)	Other (=1)	(=1)	with Child (hours/week)
+						
+early_treated	ITT	0.023	0.012	-0.035	0.018	0.240
+		(0.033)	(0.010)	(0.030)	(0.051)	(1.706)
+						
+N		366	366	366	366	366
+Mean Late Treatment		0.874	0.00500	0.121	0.313	11.30

@@ -1,0 +1,9 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+		Age	Education	Migrated for Work	Age	Education	Not Resident
+VARIABLES	LABELS	(years)	(years)	(=1)	(years)	(years)	(=1)
+							
+early_treated	ITT	-0.065	0.349	0.052*	0.157	0.271	-0.029
+		(0.145)	(0.209)	(0.027)	(0.536)	(0.426)	(0.056)
+							
+N		366	366	365	354	356	366
+Mean Late Treatment		19.90	5.480	0.0880	26	5.100	0.313

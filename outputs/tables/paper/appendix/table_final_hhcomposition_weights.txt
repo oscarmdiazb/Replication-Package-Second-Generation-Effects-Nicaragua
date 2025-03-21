@@ -1,0 +1,10 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+		Lives in Original	Mother is HH Head	Mother is HH Head or	Household	Household	Household
+		Beneficiary HH	Daughter or Daughter-in-law	HH Head spouse	Size	Members	Members
+VARIABLES	LABELS	(=1)	(=1)	(=1)		26-50	50+
+							
+early_treated	ITT	0.003	0.066*	-0.026	0.607**	0.221*	0.176***
+		(0.049)	(0.034)	(0.045)	(0.270)	(0.117)	(0.059)
+							
+N		366	366	366	366	366	366
+Mean Late Treatment		0.324	0.319	0.549	5.370	1.160	0.374
